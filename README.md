@@ -39,6 +39,8 @@ Java, standard library only.
 [MIT](LICENSE) © 2026 Canyuan Ye
 -->
 
+The code is my original coursework. In November 2026 Claude helped write this README and its header images, which is why Claude appears under Contributors.
+
 ---
 
-中文：课程项目，纽约州立大学奥尔巴尼分校计算机科学。用 Java 模拟一个简单的 32 位 CPU（位和字、ALU、内存、栈、指令缓存、处理器循环），并带汇编器：词法和语法分析把汇编式文本转成指令。仓库里只有这些类，没有 `main` 入口，也没有自动化测试。
+中文：课程项目，纽约州立大学奥尔巴尼分校计算机科学。用 Java 模拟一个简单的 32 位 CPU（位和字、ALU、内存、栈、指令缓存、处理器循环），并带汇编器：词法和语法分析把汇编式文本转成指令。仓库里只有这些类，没有 `main` 入口，也没有自动化测试。代码是我自己的课程作业；2026 年 11 月，Claude 帮忙写了这份 README 和头图，所以贡献者里有 Claude。
